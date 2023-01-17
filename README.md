@@ -1,4 +1,26 @@
-# Decentraland Bidding Bot
+<h1 align="center">Decentraland Bidding Bot</h1>
+<div align="center">
+
+<a href="http://www.nftwzrd.net/">
+  <img align="center" alt="nftwzrd" width="45px" src="https://avatars.githubusercontent.com/u/93735282?s=400&u=d29fa83e02d4386a9cf92c7315f8d355d9fae489&v=4" />
+	<code>nftwzrd.net</code>
+</a>
+	<span> ┃ </span>
+	
+  <a href="https://discord.gg/xHgnePtV7s" style="margin-top: 12px;">
+  <img  align="center" alt="Discord link" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+	  <code>Join NftWzrd Server</code>
+</a>
+<br />
+
+</div>
+	
+<div align="center">
+  <strong>For buying membership please join our discord server 👆👆👆 and create a ticket </strong>
+</div>
+<br />
+
+## Decentraland Bidding Bot
 Opensea does not support programatically bidding on decenterland. We have developed a mass bidding bot for Decentraland on OpenSea that offers 100% automated bidding capabilities. The bot is compatible with Mac, Windows, and Linux operating systems.
 
 ## Features
