@@ -4,14 +4,14 @@ Opensea does not support programatically bidding on decenterland. We have develo
 ## Features
 Our bidding bot for Decentraland on OpenSea has the following features:
 
-1 .Support for Multiple currencies including wETH, DAI, and USDC
-2 .Customizable expiration time options including minutes, hours, and days
-3 .The ability to fix bids to full collection, outbid other offers, or underbid the current price
-4 .A price cap for outbidding or underbidding
-5 .The ability to bid on multiple collections simultaneously using threads
-6 .The option to filter art by rarity, price, and sorting criteria.
-7 .Multithreading for faster performance
-8 .Instant outbidding
+- Support for Multiple currencies including wETH, DAI, and USDC
+- Customizable expiration time options including minutes, hours, and days
+- The ability to fix bids to full collection, outbid other offers, or underbid the current price
+- A price cap for outbidding or underbidding
+- The ability to bid on multiple collections simultaneously using threads
+- The option to filter art by rarity, price, and sorting criteria.
+- Multithreading for faster performance
+- Instant outbidding
 
 
 ## To-dos
