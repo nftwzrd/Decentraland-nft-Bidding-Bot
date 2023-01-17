@@ -21,7 +21,7 @@
 <br />
 
 ## Decentraland Bidding Bot
-Opensea does not support programatically bidding on decenterland. We have developed a mass bidding bot for Decentraland on OpenSea that offers 100% automated bidding capabilities. The bot is compatible with Mac, Windows, and Linux operating systems.
+Opensea does not support programatically bidding on decenterland. We have developed a mass bidding/offer bot for Decentraland on OpenSea that offers 100% automated bidding/offers capabilities. The bot is compatible with Mac, Windows, and Linux operating systems.
 
 ## Features
 Our bidding bot for Decentraland on OpenSea has the following features:
