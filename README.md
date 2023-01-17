@@ -40,8 +40,8 @@ Our bidding bot for Decentraland on OpenSea has the following features:
 The bot is continuously updated with new functionalities and can be modified to suit the specific requirements of the user.
 
 ## Built With
-Python
-Selenium
+- Python
+- Selenium
 
 ## Installation
 Installation instructions are provided in a PDF guide, and support is available to help with setup and configuration.
